@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main(){
     float ang1, ang2, ang3;
 

@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main(){
     float lado1, lado2, lado3;
 
